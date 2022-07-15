@@ -2,7 +2,7 @@
 
 
 
-Hello 👋 thank you for stopping by! I am Full Stack Web Developer
+Hello There!👋 I'm Charles thank you for stopping by! I am Full Stack Web Developer
 I have experince in various sectors of IT sort of a "jack of all trades"
 if you will. Please feel free to message me I am always open to new adventures.
 
