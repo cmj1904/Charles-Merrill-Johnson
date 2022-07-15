@@ -23,14 +23,24 @@ Hello There!👋 I'm Charles thank you for stopping by!
 
 <h2> FULL STACK WEB DEVELOPER </h2>
 
+
+
 - 🔭 I’m currently working on My Social Network App which is a MERN stack
 - 🌱 I’m currently learning these languages GO lang, Ruby, PHP
 - 👯 I’m looking to collaborate on any web application projects
 - 💬 Ask me about anything I am a open📘
 - 📫 How to reach me: charlesmerrilljohnson@gmail.com
 - ⚡ Fun fact: I have 🐈🐈🐈🐈's, I❤️🚵‍♂️ & all things STAR WARS
+
 ---
 Connect with me here
+---
+<a href="https://twitter.com/cm_johson/">
+<img align="left" alt="Charles's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/charles-merrill-johnson/">
+  <img align="left" alt="Charles's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 
 
