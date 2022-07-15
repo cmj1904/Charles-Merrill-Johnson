@@ -10,7 +10,7 @@
 Hello 👋 thank you for stopping by! I am Full Stack Developer 
 
 
-![large-840391130098](https://user-images.githubusercontent.com/99358950/179261291-4fbeac6a-646a-4f7d-8385-19df4ebe5285.jpg)
+https://media.giphy.com/media/l1KuhBCqxOoJyr0m4/giphy.gif
 
 - 🔭 I’m currently working on My Social Network App
 - 🌱 I’m currently learning JS, GO lang, Ruby, PHP
