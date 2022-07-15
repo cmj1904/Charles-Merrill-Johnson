@@ -2,6 +2,7 @@
 
 
 
+![Darth Vader GIF by Star Wars - Find   Share on GIPHY](https://user-images.githubusercontent.com/99358950/179261907-840f7f62-5c22-4f44-b42b-0fa5d339f18b.gif)
 
 
 
@@ -10,7 +11,7 @@
 Hello 👋 thank you for stopping by! I am Full Stack Developer 
 
 
-https://media.giphy.com/media/l1KuhBCqxOoJyr0m4/giphy.gif
+
 
 - 🔭 I’m currently working on My Social Network App
 - 🌱 I’m currently learning JS, GO lang, Ruby, PHP
