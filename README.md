@@ -11,7 +11,7 @@ if you will. Please feel free to message me I am always open to new adventures.
 
 
 - 🔭 I’m currently working on My Social Network App
-- 🌱 I’m currently learning JS, GO lang, Ruby, PHP
+- 🌱 I’m currently learning these languages JS, GO lang, Ruby, PHP
 - 👯 I’m looking to collaborate on any web application
 - 💬 Ask me about anything I am a open📘
 - 📫 How to reach me: charlesmerrilljohnson@gmail.com
