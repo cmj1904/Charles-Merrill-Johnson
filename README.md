@@ -2,34 +2,18 @@
 
 
 
-from dataclasses import dataclass
-from typing import Tuple
+Hello 👋 thank you for stopping by! I am Full Stack Developer 
 
 
-class Meta(type):
-    def __new__(cls, name, bases, attrs):
-        new_cls = super().__new__(cls, name, bases, attrs)
-        return dataclass(unsafe_hash=True, frozen=True)(new_cls)
+![DarthVaderThisIsYourLastWarningGIF](https://user-images.githubusercontent.com/99358950/179263483-6bc42578-78ae-45d5-bcb4-610556507664.gif)
 
 
-class Bio(metaclass=Meta):
-    name        : str = "Redowan Delowar"
-    designation : str = "Data Scientist"
-    company     : str = "ShopUp"
-    base        : str = "Dhaka, Bangladesh"
-    blog        : str = "rednafi.github.io/digressions"
-
-
-class Stack(metaclass=Meta):
-    languages   : Tuple[str, ...] = ("Python", "Go", "Shell")
-    databases   : Tuple[str, ...] = ("MySQL", "PostgreSQL", "Mongo", "Redis")
-    misc        : Tuple[str, ...] = ("Docker", "Celery")
-    ongoing     : Tuple[str, ...] = ("Django", "GraphQL")
-
-
-class Social(metaclass=Meta):
-    twitter     : str = "rednafi"
-    linkedin    : str = "redowan"
+- 🔭 I’m currently working on My Social Network App
+- 🌱 I’m currently learning JS, GO lang, Ruby, PHP
+- 👯 I’m looking to collaborate on any web application
+- 💬 Ask me about anything I am a open 📘
+- 📫 How to reach me: charlesmerrilljohnson@gmail.com
+- ⚡ Fun fact: I have 🐈🐈🐈🐈's, I❤️🚵‍♂️ & all things STAR WARS
 
 <!--
 **Charles-Merrill-Johnson/Charles-Merrill-Johnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
