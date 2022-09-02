@@ -25,7 +25,7 @@ Hello There!👋 I'm Charles thank you for stopping by!
 
 
 
-- 🔭 I’m currently working on My Social Network App which is a MERN stack
+- 🔭 I’m currently working on Underdogdevs.org develoment team. Supporting formerly incarcerated or disadvantaged individuals that are aspiring developers 
 - 🌱 I’m currently learning these languages GO lang, Ruby, PHP
 - 👯 I’m looking to collaborate on any web application projects
 - 💬 Ask me about anything I am a open📘
